@@ -1,6 +1,6 @@
 # Hi, I'm Fabiano 👋
 
-🌱 Software Engineering student  
+🌱 Software Engineering student [Estácio de Sá] (2025-2029)  
 💻 Focused on Python and C programming  
 🎮 Aspiring game developer  
 📍 Rio de Janeiro, Brazil  
