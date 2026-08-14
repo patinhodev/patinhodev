@@ -26,4 +26,3 @@ My goal is to become a Full-Stack Developer. This GitHub profile is where I shar
 
 Check my repositories below to follow the projects and exercises I have actually published.
 
-- GitHub: [@patinhodev](https://github.com/patinhodev)
