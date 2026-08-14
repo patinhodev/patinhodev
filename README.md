@@ -2,8 +2,7 @@
 
 🎓 Software Engineering student at Estácio de Sá (2025–2029)  
 ☕ Currently learning Java  
-🌐 Aspiring Full Stack Developer  
-🐍 Familiar with Python programming fundamentals  
+🌐 Aspiring Full-Stack Developer  
 📍 Rio de Janeiro, Brazil  
 
 ## About Me
