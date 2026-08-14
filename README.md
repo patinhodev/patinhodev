@@ -21,10 +21,7 @@ My goal is to become a Full Stack Developer. This GitHub is where I share my lea
 ## Technologies
 
 - Java — currently learning
-- Python — fundamentals
-- C — fundamentals
 - Git and GitHub
-- Visual Studio Code
 
 ## Projects
 
